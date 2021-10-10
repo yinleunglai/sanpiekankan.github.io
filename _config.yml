@@ -2,7 +2,7 @@
 name: 'Code4Good'
 description: 'Code for good'
 logo: 'assets/images/Code4Good.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/coding-small-icon.png'
 baseurl: '/'
 disqus: ''
 email: ''
