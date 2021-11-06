@@ -1,11 +1,6 @@
 document.write("<div id=QQFloat style=Z-INDEX:20;LEFT:88%;VISIBILITY:visible;WIDTH:112px;POSITION:absolute;TOP:400px;HEIGHT:300px;>")
 document.write("<div class=qq><div class=qq_t><img src=https://code4good.cn/qqimages/qq01.png /></div><div class=qq_bg><ul>")
 document.write("<li><img SRC=https://code4good.cn/qqimages/qq.gif  border=0 align=absmiddle /><a target=_blank href='http://wpa.qq.com/msgrd?v=3&uin=1715991945&site=qq&menu=yes'><font color='#000000'>业务咨询</font></a></li>")
-document.write("<li><img SRC=https://code4good.cn/qqimages/qq.gif  border=0 align=absmiddle /><a target=_blank href='http://wpa.qq.com/msgrd?v=3&uin=23568969&site=qq&menu=yes'><font color='#000000'>业务咨询</font></a></li>")
-document.write("<li><img SRC=https://code4good.cn/qqimages/qq.gif  border=0 align=absmiddle /><a target=_blank href='http://wpa.qq.com/msgrd?v=3&uin=23568969&site=qq&menu=yes'><font color='#000000'>业务咨询</font></a></li>")
-document.write("<li><img SRC=https://code4good.cn/qqimages/qq.gif  border=0 align=absmiddle /><a target=_blank href='http://wpa.qq.com/msgrd?v=3&uin=5465648989&site=qq&menu=yes'><font color='#000000'>售后服务</font></a>")
-document.write("<li><img SRC=https://code4good.cn/qqimages/qq.gif  border=0 align=absmiddle /><a target=_blank href='http://wpa.qq.com/msgrd?v=3&uin=5465648989&site=qq&menu=yes'><font color='#000000'>售后服务</font></a>")
-document.write("<li><img SRC=https://code4good.cn/qqimages/qq.gif  border=0 align=absmiddle /><a target=_blank href='http://wpa.qq.com/msgrd?v=3&uin=5465648989&site=qq&menu=yes'><font color='#000000'>售后服务</font></a>")
 document.write("</ul></div><div class=qq_d><img src=https://code4good.cn/qqimages/qq02.png /></div></div>")
 document.write("</div>")
 var tips; var theTop = 200
