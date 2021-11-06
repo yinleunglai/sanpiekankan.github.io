@@ -8460,3 +8460,13 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+.qq{width:120px;}
+.qq_t{width:120px;}
+.qq_d{width:120px;}
+.qq_bg{width:130px; background:url(/qqimages/qq03.png) repeat-y; padding:10px 0px 10px; overflow:hidden;}
+.qq_bg ul{margin:0px; padding:0px;}
+.qq_bg li{width:90px; height:26px; float:left; margin-left:20px; text-align:left; line-height:26px; background:url(/qqimages/qq04.png) no-repeat; display:inline; margin-bottom:5px;}
+.qq_bg li a{color:#333;font-size:12px;text-decoration: none;}
+.qq_bg li a:hover{color:#FF0000; text-decoration: underline; font-size:12px;}
+.qq_bg li img{margin-top:4px; float:left; margin-left:10px; margin-right:5px;}
