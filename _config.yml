@@ -22,7 +22,7 @@ authors:
     Code4Good:
       name:           Code4Good
       site:           https://code4good.cn
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/Code4Good.png
       bio:            ""
       email:          
       twitter:        
@@ -37,8 +37,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Code4Good
+      avatar: /assets/images/Code4Good.png
       
   # all pages
   - scope:
